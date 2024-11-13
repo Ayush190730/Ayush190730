@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web dev.
 - 💞️ I’m looking to collaborate on MERN Projects.
 - 📫 How to reach me : 8532048833 Call Any Time
-- 😄 Pronouns: Ayush 
+- 😄 Pronouns: Just say.. Ayush 
 - ⚡ Fun fact:  I can also teach.
 
 <!---
